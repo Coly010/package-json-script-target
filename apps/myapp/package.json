@@ -1,0 +1,7 @@
+{
+  "name": "myapp",
+  "scripts": {
+    "serve": "npx -y ts-node ./hello-world.ts"
+  },
+  "nx": {}
+}
